@@ -1,0 +1,59 @@
+h1 {
+  position: relative;
+  width:100%;
+  height:auto;
+  font-size: 250%;
+  color: blue;
+  text-align: center;
+}
+
+.container {
+  display:flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  justify-content:space-around;
+}
+
+.maison a{
+  position:relative;
+  width:100%;
+  height: auto;
+  text-decoration: none;
+  color: white;
+  background-color: black;
+  font-size: 120%;
+  margin: 10px;
+  border: 2px solid blue;
+  border-radius: 50%;
+  padding: 10%;
+}
+
+.bateau a{
+  position:relative;
+  width:100%;
+  height: auto;
+  text-decoration: none;
+  color: white;
+  background-color: black;
+  font-size: 120%;
+  margin: 10px;
+  border: 2px solid blue;
+  border-radius: 50%;
+  padding: 10%;
+}
+
+.drapeau a{
+  position:relative;
+  width:100%;
+  height: auto;
+  text-decoration: none;
+  color: white;
+  background-color: black;
+  font-size: 120%;
+  margin: 10px;
+  border: 2px solid blue;
+  border-radius: 50%;
+  padding: 10%;
+}
